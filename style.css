@@ -299,7 +299,7 @@ textarea {
   color: #444;
 }
 .entry-title a {
-  color: #444;
+  color: #333;
 }
 .entry-title a:hover {
   color: #666;
@@ -808,8 +808,8 @@ p.logged-in-as {
 ----------------------------------------------- */
 
 #footer-area {
-  background-color: #AAF;
-  color: #CCC;
+  background-color: #1FA67A;
+  color: #32373c;
   font-size: 12px;
 }
 #footer-area a {
